@@ -1,6 +1,8 @@
 {
+  "id": "/",
   "short_name": "CRUD App",
-  "name": "CRUD App",
+  "name": "Employee CRUD App",
+  "description": "A simple and beautiful CRUD application built with React.",
   "icons": [
     {
       "src": "android-chrome-192x192.png",
@@ -10,7 +12,24 @@
     {
       "src": "android-chrome-512x512.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Mobile View"
+    },
+    {
+      "src": "android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Desktop View"
     }
   ],
   "start_url": ".",

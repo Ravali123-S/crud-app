@@ -1,8 +1,8 @@
 {
   "name": "crud-app",
   "version": "3.3.0",
-  "private": true,
-  "homepage": "https://safdarjamal.github.io/crud-app/",
+  "private": true, 
+     "homepage": ".",
   "author": {
     "name": "Safdar Jamal",
     "url": "https://safdarjamal.github.io"
